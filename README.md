@@ -10,6 +10,9 @@ And you need haar cascade classifier file, you can find from [github](https://gi
 
 This program will allow python to access your internal webcam and detect face, eyes, and smile
 
+![face recognition](images/screenshot.png)
+
+__*Note:*__
 - If you use external webcam, you can change code line 27 from 0 to 1
 - if the face recognizition is still not good, try to adjust the parameter in code line 13. It also applied for eyes in code line 18, and smile in code line 21
 - __press "q" button in your keyboard to stop this program__
