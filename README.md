@@ -6,6 +6,8 @@ You need to [install opencv](https://pypi.org/project/opencv-python/) to run thi
 pip install opencv-python
 ```
 
+And you need haar cascade classifier file, you can find from [github](https://github.com/opencv/opencv/tree/master/data/haarcascades) just for your reference.
+
 This program will allow python to access your internal webcam and detect face, eyes, and smile
 
 - If you use external webcam, you can change code line 27 from 0 to 1
